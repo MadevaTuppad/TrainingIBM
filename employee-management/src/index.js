@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import IteratingWithUncontrolled from "./code/IteratingWithUncontrolled";
+import WorkingWithContext from "./sessionFour/WorkingWithContext";
 
-ReactDOM.render(<IteratingWithUncontrolled />, 
+ReactDOM.render(<><WorkingWithContext /></>, 
     document.getElementById("root"))
